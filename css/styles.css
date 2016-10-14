@@ -1,0 +1,16 @@
+.content { width: 100%; height: 100%; padding-top: 48px; }
+.content > section { width: 100%; height: 100%; }
+header .active { color: purple; }
+.jumbotron { margin-bottom: 0; }
+.row { margin-right: 0; margin-left: 0; }
+#about { text-align: center; background-image: url('../img/grand-canyon.jpg'); background-repeat: no-repeat; background-size: cover; min-height: 500px; }
+/*.profile-image { float: left; margin-right: 20px; width: 150px; height: 150px; border-radius: 50%; border: 3px solid #969db1; transition: all .5s;
+}
+.profile-image:hover { transform: scale(1.2) rotate(-5deg); }*/
+#about .container { background-color: rgba(255,255,255,0.4); margin-top: 40px; }
+a { color: #b1767c; font-weight: 500; font-size: 18px; }
+header { height: 65px; }
+.nav { margin-top: 10px; }
+h2, .h2 { color: #846c90; text-shadow: 1px 1px #000; text-align: center; margin-bottom: 20px; }
+h3, .h3 { color: #343e62; margin-bottom: 20px; }
+footer { text-align: center; padding: 30px 10px; }
